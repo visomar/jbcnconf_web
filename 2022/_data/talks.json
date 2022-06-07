@@ -4,7 +4,6 @@
       "id": "61df3543ef0a16083d127537",
       "title": "Distribución Progresiva en la era de Kubernetes",
       "languages": [
-        "eng",
         "es"
       ],
       "abstract": "<p>Producción es el lugar donde las aplicaciones deben estar. Aunque apliques Integración y Distribución Continua, cada vez que despliegues una nueva versión en producción te preguntarás si funcionará o habrá algún bug en la última versión, incluso haciendo que producción deje de estar disponible para los clientes.</p><p>La Distribución Progresiva es el siguiente escalón después de la Distribución Continua para probar tu aplicación en producción antes de ponerla disponible a todos tus usuarios.</p><p>Pon en práctica la Distribución Progresiva con técnicas como blue-green, canary release, shadowing traffic o dark launches para validar tu aplicación en Kubernetes con herramientas como Istio, Prometheus, ArgoDC o Argo Rollouts.</p><p>Únete a la sesión para aprender sobre Distribución Progresiva en acción usando Kubernetes.</p>",
@@ -42,7 +41,7 @@
       "id": "61f1a0e0c4c4120b9d29afa0",
       "title": "Libertad significa que Kubernetes debe desaparecer",
       "languages": [
-        "eng"
+        "es"
       ],
       "abstract": "<p>Todos nos estamos moviendo hacia modelos de organización basados en servicios y equipos autosuficientes. Todos estamos intentando de permitir que los desarrolladores sean más autónomos. Sin embargo, no es realista esperar que todos se conviertan en expertos en todo, desde infraestructura hasta Kubernetes y todo lo demás. Por lo tanto, no podemos cambiar de un día para el otro por la falta de experiencia, pero tampoco podemos seguir siendo reactivos a las necesidades de los demás. La única opción que queda es simplificar los servicios o incluso eliminar el acceso directo a la infraestructura y Kubernetes.</p><p>Es posible que podamos lograr esos objetivos a través de Argo CD o Flux (GitOps), Crossplane (universal control plane) y KubeVela (OAM). Al combinarlos, podemos permitir que los desarrolladores administren todo y aún así tengan el control total de los aspectos que les interesan. GitOps nos permite establecer Git como único punto de interacción con el sistema. Crossplane Composites nos permite simplificar la experiencia del desarrollador al administrar la infraestructura. Finalmente, el Open Application Model (OAM) con KubeVela nos permite definir aplicaciones en lugar de recursos de Kubernetes. Si combinamos estos tres tipos de herramientas y procesos, podemos permitir que las operaciones definan los servicios utilizados por los desarrolladores para administrar la infraestructura y las aplicaciones. Podemos hacer todo eso sin que nadie sepa que hay Kubernetes detrás de todo eso.</p><p>Para que todos puedan usar Kubernetes, debe desaparecer.</p>",
       "type": "talk",
@@ -247,7 +246,6 @@
       "id": "61fd74f14fc8140baaa031c1",
       "title": "Historia de un desarrollador de Java que se cambia a Go en el contexto de Kubernetes",
       "languages": [
-        "eng",
         "es"
       ],
       "abstract": "<p>En esta presentación, Mauricio, apasionado desarrollador Java, comparte sus hallazgos psicodélicos trabajando en el ecosistema Go para el Proyecto Knative OSS. Esta presentación se centra en el ecosistema Go en lugar de la diferencia entre los lenguajes Java y Go. Se discutirán herramientas como la gestión de dependencias, IDE, marcos y cómo lidiar con proyectos grandes. Si bien Java sigue siendo importante en mi corazón, hay lecciones a tener en cuenta, frameworks y herramientas que tal vez querríamos traer al ecosistema de Java de la vibrante comunidad de Go. Se hace especial énfasis en las herramientas relacionadas con Kubernetes y por qué creo que Go en Kubernetes está muy por delante de Java.</p>",
@@ -476,7 +474,7 @@
     },
     {
       "id": "622916e656274e0bddf0079b",
-      "title": "Seamless SSO workshop : KEYCLAOK + SPRING + VUE.JS + LDAP",
+      "title": "Seamless SSO workshop : KEYCLOAK + SPRING + VUE.JS + LDAP",
       "languages": [
         "eng"
       ],
@@ -497,11 +495,11 @@
     },
     {
       "id": "6229173756274e0bddf0079d",
-      "title": "Building Database Applications with Micronaut Data and GraalVM ",
+      "title": "Desarrollando aplicaciones de bases de datos con Micronaut Data y GraalVM",
       "languages": [
-        "eng"
+        "es"
       ],
-      "abstract": "<p>Micronaut Data allows the constructions of slick database applications that target a range of different database workloads from SQL databases to document databases like MongoDB and Oracle Autonomous Database. This presentation by Micronaut creator and Oracle Architect Graeme Rocher will take you through a tour of using Micronaut Data's key features including:</p><ul><li>Persistence to SQL and Document Databases</li><li>Non-blocking database access with R2DBC</li><li>Programmatic and declarative transactions</li><li>Persistence events</li><li>Criteria specifications</li><li>Building native database applications with GraalVM and Native Image</li></ul><p>To get an in-depth tour of Micronaut, Micronaut Data and GraalVM this is the talk for you.</p>",
+      "abstract": "<p>Micronaut Data permite desarrollar aplicaciones de bases de datos elegantes que soportan una amplia gama de diferentes cargas de trabajo, desde bases de datos SQL hasta bases de datos de documentos como MongoDB y Oracle Autonomous Database. Esta presentación del creador de Micronaut y arquitecto de Oracle, Graeme Rocher, te llevará a través de un recorrido por el uso de las funciones clave de Micronaut Data, que incluyen:</p><ul><li>Persistencia a SQL y bases de datos de documentos</li><li>Acceso a la base de datos sin bloqueo con R2DBC</li><li>Transacciones programáticas y declarativas</li><li>Eventos de persistencia</li><li>Especificaciones de criterios (search criteria)</li><li>Creación de aplicaciones de bases de datos nativas con GraalVM y Native Image</li></ul><p>Esta es tu charla si quieres aprender en profundidad sobre Micronaut, Micronaut Data y GraalVM.</p>",
       "type": "talk",
       "tags": [
         "micronaut",
@@ -572,7 +570,6 @@
       "id": "6229f5eb56274e0bddf007a2",
       "title": "Seguridad en Micronaut®",
       "languages": [
-        "eng",
         "es"
       ],
       "abstract": "<p>En esta sesión, Sergio del Amo presenta Micronaut Security, una solución de seguridad personalizable y con todas las funciones para sus aplicaciones.</p><p>Los temas incluyen:</p><p>Autenticación (autenticación básica, basada en cookies, basada en sesiones, portador, LDAP, X.509)</p><p>Acceso usuario autenticado</p><p>Configuración de seguridad (@Secured, mapa de URL de intercepción y más)</p><p>OAuth 2.0 (Código de autorización, Credenciales de cliente, Concesiones de credenciales de contraseña)</p><p>OpenID Connect (integración con proveedores de servidores OAuth 2.0 de terceros: Auth0, Okta, Keycloak, Amazon Cognito)</p><p>JWT (firma, validación, generación, JWKS)</p><p>Propagación de tokens</p><p>Eventos de seguridad</p><p>Descubra lo fácil que es trabajar con Micronaut Security y aprenda a adaptarlo a sus necesidades.</p><p>Sergio del Amo es Micronaut core commiter, Developer Advocate de la Fundación Micronaut y presentador del “Micronaut podcast” (https://micronautpodcast.com).</p>",
@@ -713,7 +710,7 @@
       "id": "62505edfaa23f0085462dda4",
       "title": "The Microservices Smackdown: Data",
       "languages": [
-        "eng"
+        "es"
       ],
       "abstract": "<p>Los microservicios están en todas partes. Hay más de una forma de implementarlos y desplegarlos, pero al final lo que esperamos de ellos es mover datos de un lugar a otro. Las bases de datos generalmente se encuentran al final de la ejecución de un microservicio. Los microservicios pueden ejecutarse en modo síncrono y asíncrono, pero ¿qué pasa con el procesamiento de datos desde y hacia la base de datos? En esta sesión, cubriremos las capacidades de sincronización y asincronía que ofrecen Helidon, Micronaut, Quarkus y Spring Boot cuando se trata de leer y escribir datos.</p>",
       "type": "talk",
@@ -766,7 +763,7 @@
       "id": "6250631eaa23f0085462dda7",
       "title": "Releases determinísticas, reproducibles y sin sorpresas",
       "languages": [
-        "eng"
+        "es"
       ],
       "abstract": "<p>Cuando un proyecto ha llegado a la etapa en la que es una buena idea publicar binarios, surgen nuevas preguntas, ¿Dónde deberían publicarse? ¿Cómo facilitamos a los usuarios la localización e instalación de binarios? ¿Dónde se deben compartir las releases? Y lo más importante, ¿se pueden automatizar? Hay tantos requisitos y consideraciones dependiendo de los canales de distribución, ¿no sería genial tener una herramienta para hacerlo más fácil?</p><p>JReleaser es una herramienta que brinda respuestas a estas preguntas y más. Se puede usar para crear releases en GitHub/GitLab/Gitea y publicar binarios consumibles desde diferentes canales de distribución como Homebrew, Snap, Scoop y más. Una vez publicada, la release se puede anunciar automáticamente en Twitter, Slack, Gitter, Discord u otros.</p>",
       "type": "talk",
@@ -934,6 +931,31 @@
       ]
     },
     {
+      "id": "6272e56271e11d0858e82244",
+      "title": "OpenTelemetry Real Life Production Examples",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>From real life example of a customer using distributed tracing in production, we will go into details of what were the problems he tried to solve? Why did he select distributed tracing and OpenTelemetry? How was the implementation with success and land mines to avoid? How does it impact the root cause and performance analysis workflows? And finally, what were the technical and business benefits?</p><p>By the end of this talk, you’ll understand -</p><p>•\tvalue distributed tracing and OpenTelemetry can bring in production,</p><p>•\tpitfalls to avoid during implementation,</p><p>•\tdeployed OpenTelemetry architecture principles,</p><p>•\tdifferences and some of the changes it creates in your practices, like impacts on code, logs management, SRE and Dev team organizations.</p>",
+      "type": "talk",
+      "tags": [
+        "#OpenTelemetry",
+        "#Observability",
+        "#Monitoring",
+        "#Microservices",
+        "#Performance",
+        "#RCA",
+        "#Kubernetes",
+        "#Instrumentation",
+        "#UserExperience",
+        "#SRE"
+      ],
+      "level": "beginner",
+      "speakers": [
+        "34d565db320a6c8f22c1b6c05b18a1aa01ba0796"
+      ]
+    },
+    {
       "id": "6272e73371e11d0858e82245",
       "title": "Gentle introduction to machine learning algorithms, with examples",
       "languages": [
@@ -1028,6 +1050,44 @@
       ]
     },
     {
+      "id": "627c18d126f9720858a38ef2",
+      "title": "Keep Your Cache Always Fresh with Debezium!",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>The saying goes that there are only two hard things in Computer Science: cache invalidation, and naming things. Well, turns out the first one is solved actually ;)</p><p>Join us for this session to learn how to keep read views of your data in distributed caches close to your users, always kept in sync with your primary data stores change data capture. You will learn how to</p><ul><li>Implement a low-latency data pipeline for cache updates based on Debezium, Apache Kafka, and Infinispan</li><li>Create denormalized views of your data using Kafka Streams and make them accessible via plain key look-ups from a cache cluster close by</li><li>Propagate updates between cache clusters using cross-site replication</li></ul><p>We'll also touch on some advanced concepts, such as detecting and rejecting writes to the system of record which are derived from outdated cached state, and show in a demo how all the pieces come together, of course connected via Apache Kafka.</p>",
+      "type": "workshop",
+      "tags": [
+        "Apache Kafka",
+        "change data capture",
+        "data streaming",
+        "caching",
+        "microservices"
+      ],
+      "level": "middle",
+      "speakers": [
+        "44775844c7cf4df6e20eb4b208e13ebdb02a3ef9"
+      ]
+    },
+    {
+      "id": "627c18f226f9720858a38ef3",
+      "title": "The Hitchhiker’s Guide to a Great Developer Career",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>As developers, our job is to write great code, test code, deploy code, fix code, and even delete code, but nobody told us that there is much more to it if we want to have a great developer career.</p><p>In this talk, Sven and Helen will share their successes and failures during their 20-year careers to date working for various technology companies. You’ll learn about growing your personal brand (what is it good for?), the trials and tribulations of different roles (so many choices), becoming a manager (or not), mentoring and sponsoring (they are not the same thing), how to care for yourself (prevent burnout), and lots more career advice.</p><p>You'll hear about their inevitable bumps in the road (or downright failures), as well as their successes. As it turns out, having a great developer career is not all about the technology and the code; it's also about you and the people around you!</p>",
+      "type": "talk",
+      "tags": [
+        "career",
+        "leadership"
+      ],
+      "level": "beginner",
+      "speakers": [
+        "6e6c32699364da6fd090b2002c3e64da4cecacbb",
+        "efddc30dae7a2df8f301c9afbebbb8e0bb3fb27a"
+      ]
+    },
+    {
       "id": "627c1b0426f9720858a38ef6",
       "title": "Superman or Ironman - can everyone be a 10x developer?",
       "languages": [
@@ -1052,12 +1112,11 @@
     },
     {
       "id": "627c1bdd26f9720858a38ef7",
-      "title": "The ups and downs of deploying AI in the wild",
+      "title": "El lado oculto del despliegue de modelos IA",
       "languages": [
-        "eng",
         "es"
       ],
-      "abstract": "<p>Have you ever faced a professional challenge where you just didn’t know where to start?​</p><p>What happens to an AI model once it’s been trained and tested? In this talk, I’m going to share how I transformed into a data engineer for the duration of two weeks, while on the mission to deploy our AI models in a Cloudera datalake using Spark.</p>",
+      "abstract": "<p>¿Alguna vez te has enfrentado a un desafío profesional en el que simplemente no sabías por dónde empezar? ¿Qué le sucede a un modelo de IA una vez que ha sido entrenado y probado?</p><p>En esta charla, voy a compartir cómo me transformé en una ingeniera de datos durante dos semanas, mientras trabajaba para implementar nuestros modelos de IA en un datalake de Cloudera usando Spark.</p>",
       "type": "talk",
       "tags": [
         "Artificial intelligence",
@@ -1069,7 +1128,199 @@
       ],
       "level": "middle",
       "speakers": [
-        "b3da9cdff962b1acbca9868acc10361463f07614"
+        "b3da9cdff962b1acbca9868acc10361463f07614",
+        "2a88aa1b1e9f6e4a6c13ddb06f9f72cb48b853c8"
+      ]
+    },
+    {
+      "id": "62855149d7a7c108376c3a62",
+      "title": "Treasure.map(): Functional Programming in JVM-based languages",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>What is a monad? Do I need a PhD to write in functional style? Any hidden gems that will improve my developer experience?</p><p>In this talk, we'll cover the core concepts of functional programming, discuss typical patterns and structures, their limitations and how to explain to your team that a monad is just a monoid in the category of endofunctors but nobody should be scared.</p>",
+      "type": "talk",
+      "tags": [
+        "Kotlin",
+        "Scala",
+        "Clojure",
+        "Java",
+        "Groovy"
+      ],
+      "level": "middle",
+      "speakers": [
+        "d71d836c712c4711d66f0794557f431f11dd333a"
+      ]
+    },
+    {
+      "id": "62855161d7a7c108376c3a63",
+      "title": "LGTM - Open Source Monitoring with Loki, Grafana, Tempo, and Mimir",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>Java observability tools like the OpenTelemetry's auto-instrumentation agent or the upcoming Micrometer release make it easy to get metrics, distributed traces, and logs out of your Java applications.</p><p>This talk focuses on what you can do with these signals. We will show how you can set up your own monitoring backend using Loki, Tempo, and Mimir as open-source databases for logs, traces, and metrics. We will explore best practices for visualizing the data in Grafana dashboards, explore how to create alerts, and how to navigate the data when analyzing the root cause for an alert.</p>",
+      "type": "talk",
+      "tags": [
+        "monitoring",
+        "opentelemetry",
+        "java",
+        "observability"
+      ],
+      "level": "middle",
+      "speakers": [
+        "83000b23dafd750a87d9e4fda12b906fc1e4e734"
+      ]
+    },
+    {
+      "id": "628551e8d7a7c108376c3a65",
+      "title": "Use Testing to Develop Better Software Faster",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>Testing doesn't always get the attention it deserves in software development. Many developers claim to be bad at it, or are just not that interested. (These may or may not be related.)</p><p>As developers, our job is to deliver working software. With the shift to CI/CD and the move to the cloud, the need to have the right feedback at the right time only increases. There are many ways that testing can help us with that. Not only can testing help us verify our solution and prevent us from breaking things, it can also help us design our software, find flaws in our architecture and come up with better solutions. In this talk I will highlight some of the many ways that testing can help you to develop better software faster.</p>",
+      "type": "talk",
+      "tags": [
+        "Jvm",
+        "testing",
+        "architecture",
+        "quality"
+      ],
+      "level": "beginner",
+      "speakers": [
+        "de2cd836ea5980909c79dfc4ea139f8db52b14bb"
+      ]
+    },
+    {
+      "id": "62855388d7a7c108376c3a66",
+      "title": "Techniques for a faster JVM start-up",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>During this session, I will discuss a few techniques about how to improve the JVM start-up time for any application running on the JVM, independent of the programming language. These techniques could be applied in any project, in general without code changes. You can use the same techniques to speed up the JVM start-up time for your applications (both in development and production environments).</p><p>Main topics:</p><p>when the JVM start-up matters (i.e. for what types of applications)</p><p>application class-data sharing (AppCDS)</p><p>Ahead-of-time (AOT) compilation</p><p>few handy JVM flags</p><p>hands-on demonstration (including benchmarks results)</p><p>The JVMs included in this talk are OpenJDK HotSpot and Graal VM.</p>",
+      "type": "talk",
+      "tags": [
+        "performance",
+        "start-up",
+        "JVM"
+      ],
+      "level": "middle",
+      "speakers": [
+        "3932177414abf39b49cc295816a61762874d8b1e"
+      ]
+    },
+    {
+      "id": "628554aed7a7c108376c3a67",
+      "title": "Better Understanding through Bytecode",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>Getting familiar with complicated technical topics like concurrency or recursion, we often look to abstractions. We boil things down to diagrams with boxes and arrows, tucking the details away for later.</p><p>While often a great starting point, there’s a lot of value in pushing the other direction too. On the JVM, reality isn’t your Java, Kotlin, or Clojure code -- it’s the bytecode running below the surface. Surprisingly, many elusive topics may actually be clearer when we can understand what’s happening at that layer below.</p><p>In this talk, we’ll get up to speed on just enough bytecode reading to start exploring real topics like lost writes from concurrency, tail recursion, and co-routines. We’ll get familiar with the basic tools and opcodes, what to do when the bytecode’s hard to understand, and come away more confident in our ability to understand our systems from top to bottom.</p>",
+      "type": "talk",
+      "tags": [
+        "JVM",
+        "internals",
+        "concurrency",
+        "recursion",
+        "Java",
+        "Kotlin"
+      ],
+      "level": "middle",
+      "speakers": [
+        "ffaad51498cdf845c5c9f24c4eff0d9b17bba237"
+      ]
+    },
+    {
+      "id": "628e909d0cb98308207c30de",
+      "title": "Kotlin's Exceptional Performance - Lil' Exception Revisited",
+      "languages": [
+        "eng",
+        "es"
+      ],
+      "abstract": "<p>As the adage goes, \"don't use exceptions as control flow\" - but why not? In 2014, Aleksey Shipilëv published \"The Exceptional Performance of Lil' Exception\", an excellent article about the performance characteristics of Java's exception system and how different strategies for managing exceptions fare in varying scenarios in order to demonstrate why the adage exists. Since then, the Kotlin programming language has taken off in popularity, and this language brings several new options for handling exceptions, for example inline classes and sealed classes. With the help of the Java Microbenchmark Harness, this presentation will explore the benefits, drawbacks, and performance characteristics of various exception-handling strategies that can be employed using these Kotlin features.</p>",
+      "type": "talk",
+      "tags": [
+        "Kotlin",
+        "JMH",
+        "Performance"
+      ],
+      "level": "advanced",
+      "speakers": [
+        "8fc3e7dd2d1a897d037ce00e9be96e35a493bd5b"
+      ]
+    },
+    {
+      "id": "628e91130cb98308207c30df",
+      "title": "Nuestro viaje a Data Mesh: impulsando los datos en un mundo de microservicios",
+      "languages": [
+        "es"
+      ],
+      "abstract": "<p>En esta charla hablaremos de arquitecturas de microservicios y su relación con BigData.</p><p>¿Crees que tienes demasiadas dependencias entre tus microservicios? ¿Tienes pipelines de extracción de datos y te preocupa el sobreesfuerzo de mantenerlos? ¿Quieres adoptar Machine Learning masivamente y te preguntas cómo conectar los datos de tus microservicios a los procesos de training de ML? ¿Has implementado un Data Lake pero tienes dudas sobre la calidad de los datos o del coste de mantenerlo?</p><p>En esta charla compartiremos nuestras experiencias evolucionando nuestra arquitectura desde un monolito (2008) a microservicios (más de 250 actualmente), de los problemas que esta evolución causó en los pipelines de datos para los equipos de análisis (Data Science, BI), de las diferentes soluciones que consideramos para solucionarlos, y de por qué decidimos adoptar el paradigma de Data Mesh.</p><p>El paradigma de Data Mesh se publicó en 2019 en el blog de Martin Fowler, pero hay pocos ejemplos públicos de cómo llevarlo a cabo. Presentaremos cómo hemos implementado el Data Mesh, incluyendo los principios, la arquitectura, el stack tecnológico, y los flujos de datos entre los microservicios y la plataforma de datos. Explicaremos cómo hemos solucionado los retos de trazabilidad, privacidad, normativa PCI, costes, tiempos de respuesta y mantenimiento en eDreams ODIGEO, la segunda agencia de viajes del mundo en vuelos.</p>",
+      "type": "talk",
+      "tags": [
+        "#Microservices",
+        "#GCE"
+      ],
+      "level": "middle",
+      "speakers": [
+        "995deafb6a160f93df5d5e8906e6be02205373d5"
+      ]
+    },
+    {
+      "id": "628e97bf0cb98308207c30e0",
+      "title": "Approaching OAuth 2 with Spring Security and the new authorization server",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>The new Spring Security authorization server is out there and you can use it in production. Hoooray! For a long time, after the Spring Security OAuth project deprecation, the community was surrounded by confusion around what to use for implementing an authorization server. The confusion is over know since the new Spring Security authorization server is out and ready for you to use it. I invite you to a 2-hours workshop in which we apply and test or the grant types relevant to real-world applications using the new Spring Security authorization server framework to build our own, custom authorization server.</p>",
+      "type": "talk",
+      "tags": [
+        "OAuth2",
+        "Spring Security",
+        "OpenID Connect",
+        "Spring Security Authorization Server"
+      ],
+      "level": "middle",
+      "speakers": [
+        "5a2f5a3fa8dca8de734654345a181ee5399fc961"
+      ]
+    },
+    {
+      "id": "628e980f0cb98308207c30e1",
+      "title": "Accelerate Serverless Java with GraalVM on AWS (Lambda)",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>Java is one of the most popular programming languages but seems not to be competitive in terms of start-up time and memory footprint compared to interpreted or natively compiled languages. Both are critical for short-lived serverless functions.</p><p>In this workshop you will learn the concepts, mechanisms and best practices around serverless Java applications. The first part of the workshop covers how to run traditional Java application on AWS and the limitations and challenges involved. In the second part we’ll introduce GraalVM, a high-performance runtime and modify our existing application to gain up to 80% performance improvement during cold-starts.</p>",
+      "type": "workshop",
+      "tags": [
+        "Java",
+        "Cloud",
+        "Serverless",
+        "GraalVM",
+        "Performance"
+      ],
+      "level": "middle",
+      "speakers": [
+        "8ea4327073ae8971f36f2c0d4d962822ad4e4031",
+        "f97f116ba514a6b4bcbda7e6ccae1bb0bde64d6f"
+      ]
+    },
+    {
+      "id": "629e0757d61b550b63e58f88",
+      "title": "Fighting Legacy",
+      "languages": [
+        "eng"
+      ],
+      "abstract": "<p>Which is the definition of Legacy Code? In my context is software that works and pay the bills, but we need to work on it in order to get better results and be able to evolve when it’s necessary.</p><p>Working with three (real estate aggregators, Mitula, Nestoria and Nuroa) products with thousands of legacy lines of code, legacy systems and legacy infrastructure is our day to day work in my team, but you know what? We like it, and it is a challenge to figure out how to deal with that situation and at the same time evolve those products.</p><p>In this talk we will show some of the tecniques we use to deal with that code, and the strategies we are taking in the long run in order to survive to that quest, and we will discuss some economics concepts related to that: When to invest in something, when is usefull to work on preventing a risk and how to deal with technical debt (no silver bullet, it’s a difficult subject).</p>",
+      "type": "talk",
+      "tags": [
+        "Jva",
+        "kotlin",
+        "legacy"
+      ],
+      "level": "advanced",
+      "speakers": [
+        "f1d7e2395a50ba1c384294c4bc73eba9170fddd0"
       ]
     }
   ]

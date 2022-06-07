@@ -2,6 +2,19 @@
   "items": [
     {
       "enabled": "1",
+      "name": "Severn Everett",
+      "company": "Apiumhub",
+      "description": "Backend Developer",
+      "biography": "<p>Severn Everett, currently employed as a backend developer in ApiumHub, has been in the software engineering industry for over a decade, having worked in software development companies in the United States, India, Germany, the Netherlands, and Spain. His tech stack repertoire has also varied considerably over the years, with experience in projects using Java, Kotlin, C++, Python, Ruby, and Go. However, the JVM and Spring Boot ecosystems remain the domains in which he retains the most knowledge as well as interest.</p>",
+      "image": "assets/img/speakers/SevernEverett.webp",
+      "ref": "8fc3e7dd2d1a897d037ce00e9be96e35a493bd5b",
+      "url": "infoSpeaker.html?ref=8fc3e7dd2d1a897d037ce00e9be96e35a493bd5b",
+      "homepage": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/severneverett"
+    },
+    {
+      "enabled": "1",
       "name": "Mauricio Salatino",
       "company": "VMware",
       "description": "Staff Engineer",
@@ -38,6 +51,19 @@
       "homepage": "https://www.layermark.com/",
       "twitter": "@gunayus",
       "linkedin": "https://www.linkedin.com/in/gunayus/"
+    },
+    {
+      "enabled": "1",
+      "name": "Aitor Alzola",
+      "company": "Lifull Connect",
+      "description": "Tech Lead",
+      "biography": "<p>I have been creating software to solve problems in almost every possible role for more than 25 years, using multiple languages and platforms and different methodologies, trying to improve the process with questionable success. The best thing about all this is that I still like to do it (solve problems and improve in the process). I currently work at Lifull Connect trying to help people to find the property of their dreams all over the world.</p>",
+      "image": "assets/img/speakers/aitor-alzola.jpg",
+      "ref": "f1d7e2395a50ba1c384294c4bc73eba9170fddd0",
+      "url": "infoSpeaker.html?ref=f1d7e2395a50ba1c384294c4bc73eba9170fddd0",
+      "homepage": "",
+      "twitter": "Aitortxu",
+      "linkedin": "www.linkedin.com/in/aitoralzola"
     },
     {
       "enabled": "1",
@@ -106,6 +132,19 @@
     },
     {
       "enabled": "1",
+      "name": "Gunnar Morling",
+      "company": "Red Hat",
+      "description": "Senior Principal Software Engineer",
+      "biography": "<p>Gunnar Morling is a software engineer and open-source enthusiast by heart. He is leading the Debezium project, a distributed platform for change data capture. He is a Java Champion, the spec lead for Bean Validation 2.0 (JSR 380) and has founded multiple open source projects such as JfrUnit, Layrry, and MapStruct. Gunnar is an avid blogger (morling.dev) and has spoken at a wide range of conferences like QCon, Java One, Devoxx, JavaZone, and many others. He's based in Hamburg, Germany.</p>",
+      "image": "assets/img/speakers/gunnar-morling.jpeg",
+      "ref": "44775844c7cf4df6e20eb4b208e13ebdb02a3ef9",
+      "url": "infoSpeaker.html?ref=44775844c7cf4df6e20eb4b208e13ebdb02a3ef9",
+      "homepage": "https://www.morling.dev/",
+      "twitter": "@gunnarmorling",
+      "linkedin": "https://www.linkedin.com/in/gunnar-morling-2b44b7229/"
+    },
+    {
+      "enabled": "1",
       "name": "Birgit Kratz",
       "company": "Birgit Kratz",
       "description": "Freelance",
@@ -116,6 +155,19 @@
       "homepage": "",
       "twitter": "@bikratz",
       "linkedin": "https://www.linkedin.com/in/birgit-kratz-567079204/"
+    },
+    {
+      "enabled": "1",
+      "name": "Marit van Dijk",
+      "company": "bol.com",
+      "description": "Software Engineer at bol.com (until June), Java Developer Advocate at JetBrains (starting July)",
+      "biography": "<p>Marit van Dijk is a software developer with 20 years of experience in different roles and companies. She loves building awesome software with amazing people, and has contributed to open source projects like Cucumber and various other projects. She enjoys learning new things, as well as sharing knowledge on programming, test automation, Cucumber/BDD and software engineering. She speaks at international conferences, webinars and podcasts, occasionally writes blog posts and contributed to the book \"97 Things Every Java Programmer Should Know\" (O’Reilly Media). Marit is currently employed as a Software Engineer at bol.com and will start as a Java Developer Advocate at JetBrains in July 2022.</p>",
+      "image": "assets/img/speakers/marit-van-dijk.jpg",
+      "ref": "de2cd836ea5980909c79dfc4ea139f8db52b14bb",
+      "url": "infoSpeaker.html?ref=de2cd836ea5980909c79dfc4ea139f8db52b14bb",
+      "homepage": "https://mlvandijk.github.io/",
+      "twitter": "@MaritvanDijk77",
+      "linkedin": "https://www.linkedin.com/in/maritvandijk/"
     },
     {
       "enabled": "1",
@@ -142,6 +194,19 @@
       "homepage": "https://milendyankov.com/",
       "twitter": "@milendyankov",
       "linkedin": "https://www.linkedin.com/in/milendyankov"
+    },
+    {
+      "enabled": "1",
+      "name": "Fabian Stäber",
+      "company": "Grafana",
+      "description": "Sr. Engineering Manager",
+      "biography": "<p>Dr. Fabian Stäber is engineering manager and monitoring enthusiast at Grafana. As a member of the Prometheus project Fabian is maintainer of the Prometheus Java client library and the JMX exporter. As engineering manager at Grafana Fabian has his focus on the OpenTelemetry team.</p>",
+      "image": "assets/img/speakers/fabian-staber.jpg",
+      "ref": "83000b23dafd750a87d9e4fda12b906fc1e4e734",
+      "url": "infoSpeaker.html?ref=83000b23dafd750a87d9e4fda12b906fc1e4e734",
+      "homepage": "",
+      "twitter": "@fstabr",
+      "linkedin": "https://www.linkedin.com/in/staeber/"
     },
     {
       "enabled": "1",
@@ -184,6 +249,19 @@
     },
     {
       "enabled": "1",
+      "name": "Jason Clark",
+      "company": "New Relic",
+      "description": "Principal Engineer and Architect",
+      "biography": "<p>Jason Clark is a Principal Engineer and Architect at New Relic where he’s worked on everything from petabyte-scale JVM data processing pipelines to Ruby instrumentation libraries. He was previously an Architect at WebMD building .Net-based web services.</p><p>A regular conference speaker, Jason contributes to the open source project Shoes, which aims to make GUI programming easy and fun for beginners and students. He's also co-author of two books, The Well-Grounded Java Developer, Second Edition with Ben Evans and Martijn Verburg, and Java in a Nutshell, Eighth Edition with Ben Evans.</p>",
+      "image": "assets/img/speakers/jason-clark.jpg",
+      "ref": "ffaad51498cdf845c5c9f24c4eff0d9b17bba237",
+      "url": "infoSpeaker.html?ref=ffaad51498cdf845c5c9f24c4eff0d9b17bba237",
+      "homepage": "https://jasonrclark.com",
+      "twitter": "@jasonrclark",
+      "linkedin": "https://www.linkedin.com/in/jasonrclark42/"
+    },
+    {
+      "enabled": "1",
       "name": "Dmitry Aleksandrov",
       "company": "Sofia",
       "description": "Software Developer",
@@ -207,6 +285,32 @@
       "homepage": "",
       "twitter": "@ixchelruiz",
       "linkedin": "https://www.linkedin.com/in/ixchelruiz"
+    },
+    {
+      "enabled": "1",
+      "name": "Ionut Balosin",
+      "company": "Raiffeisen Bank International",
+      "description": "Software Architect",
+      "biography": "<p>I am a software architect, independent technical trainer, and security champion. I regularly speak at software development conferences and meetups around the world, delivering presentations, training courses, and workshops. For more information please visit my website www.ionutbalosin.com</p>",
+      "image": "assets/img/speakers/ionut-balosin.jpg",
+      "ref": "3932177414abf39b49cc295816a61762874d8b1e",
+      "url": "infoSpeaker.html?ref=3932177414abf39b49cc295816a61762874d8b1e",
+      "homepage": "https://ionutbalosin.com/",
+      "twitter": "@ionutbalosin",
+      "linkedin": "https://at.linkedin.com/in/ionutbalosin"
+    },
+    {
+      "enabled": "1",
+      "name": "Laurentiu Spilca",
+      "company": "Endava",
+      "description": "Development Lead",
+      "biography": "<p>Who am I?</p><p>I'm a dedicated development lead and trainer at Endava, where I lead the development of various projects used in various places in the world, from Europe to US, and Asia.</p><p>As a Java instructor, I delivered thousands of hours of training to 3000+ students in the past 10 years, recently being involved in courses at the Mathematics and Informatics Faculty of Bucharest University. During a previous couple of years, I delivered presentations, tutorials, and workshops at different important events around the world: in Bucharest, New York, San Francisco, Warsaw, Belgrad, Berlin, and many more.</p><p>Recently, I released together with Manning Publications the book “Spring Security In Action”, and I am currently working on my second book, \"Spring Start Here\".</p><p>Outside of work, I'm passionate about traveling, music, and scuba diving.</p>",
+      "image": "assets/img/speakers/laurentiu-spilca.gif",
+      "ref": "5a2f5a3fa8dca8de734654345a181ee5399fc961",
+      "url": "infoSpeaker.html?ref=5a2f5a3fa8dca8de734654345a181ee5399fc961",
+      "homepage": "https://laurspilca.com/",
+      "twitter": "@laurspilca",
+      "linkedin": "https://www.linkedin.com/in/lauren%C5%A3iu-spilc%C4%83-01a931107/"
     },
     {
       "enabled": "1",
@@ -262,11 +366,24 @@
     },
     {
       "enabled": "1",
+      "name": "Helen Scott",
+      "company": "Jetbrains",
+      "description": "Developer Advocate",
+      "biography": "<p>Helen Scott is a Java Developer Advocate at JetBrains. She has worked at numerous software companies in the last 20 years and has experienced the development cycle at all stages in various roles throughout that time. Helen loves to learn new tools and technologies, create content about that journey and share it with the community.</p>",
+      "image": "assets/img/speakers/helen-scott.jpeg",
+      "ref": "efddc30dae7a2df8f301c9afbebbb8e0bb3fb27a",
+      "url": "infoSpeaker.html?ref=efddc30dae7a2df8f301c9afbebbb8e0bb3fb27a",
+      "homepage": "",
+      "twitter": "@HelenJoScott",
+      "linkedin": ""
+    },
+    {
+      "enabled": "1",
       "name": "Akshita Rastogi",
       "company": "commercetools",
       "description": "Technical Product Manager ",
       "biography": "<p>Akshita has always enjoyed dismantling concepts and frameworks to understand what is behind the beautiful abstraction she sees. Some things she could put back together, some were fated to fade away. In her professional career, she imbibed this trait and started off as a QA in a data security firm, then found herself wandering into the “Clouds,” and she knew that was something she admired. After taking up various challenges in different roles as a QA-Automation Engineer, DevOps Engineer, Cloud Consultant, Cloud Architect, and Product Owner, she realized that it was time to face new hurdles as a Technical Product Manager for Cloud Infrastructure & Tooling at commercetools.</p>",
-      "image": "assets/img/speakers/Akshita Rastogi.jpg",
+      "image": "assets/img/speakers/akshita-rastogi.jpg",
       "ref": "72036b8655975d50ae6e51b7e51402b767c06c0e",
       "url": "infoSpeaker.html?ref=72036b8655975d50ae6e51b7e51402b767c06c0e",
       "homepage": "",
@@ -298,6 +415,19 @@
       "homepage": "http://www.orpiske.net",
       "twitter": "@otavio021",
       "linkedin": "https://www.linkedin.com/in/orpiske/"
+    },
+    {
+      "enabled": "1",
+      "name": "Maximilian Schellhorn",
+      "company": "Amazon Web Services",
+      "description": "Solutions Architect",
+      "biography": "<p>Maximilian Schellhorn works as a Solutions Architect at Amazon Web Services. Before that he worked for more than 10 years as a Software Engineer & Architect on distributed system design and monolith-to-microservice transformations. His recent work focuses on migrating, optimizing and running Serverless Java applications on AWS Lambda.</p>",
+      "image": "assets/img/speakers/maximilian-schellhorn.jpg",
+      "ref": "f97f116ba514a6b4bcbda7e6ccae1bb0bde64d6f",
+      "url": "infoSpeaker.html?ref=f97f116ba514a6b4bcbda7e6ccae1bb0bde64d6f",
+      "homepage": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/maximilian-schellhorn-46020b162/"
     },
     {
       "enabled": "1",
@@ -366,6 +496,19 @@
     },
     {
       "enabled": "1",
+      "name": "Karin-Aleksandra Monoid",
+      "company": "CircleCI",
+      "description": "Senior Software Engineer ",
+      "biography": "<p>Karin is a Senior Software Engineer, Google Developer Expert in Kotlin and an international speaker. Currently she is specializing in Kotlin and advocating for functional programming (the good parts!). She probably tried your favorite backend language on frontend (Scala.js and Kotlin/JS).</p>",
+      "image": "assets/img/speakers/karin-aleksandra-monoid.jpg",
+      "ref": "d71d836c712c4711d66f0794557f431f11dd333a",
+      "url": "infoSpeaker.html?ref=d71d836c712c4711d66f0794557f431f11dd333a",
+      "homepage": "https://github.com/paranoidmonoid",
+      "twitter": "paranoidmonoid",
+      "linkedin": "https://www.linkedin.com/in/karin-aleksandra-monoid/"
+    },
+    {
+      "enabled": "1",
       "name": "Tanja Obradovic",
       "company": "Eclipse Foundation",
       "description": "Jakarta EE Program Manager",
@@ -428,6 +571,19 @@
       "homepage": "",
       "twitter": "",
       "linkedin": "https://www.linkedin.com/in/isabella-karabasz-058477183/"
+    },
+    {
+      "enabled": "1",
+      "name": "Dimitris FINAS",
+      "company": "ServiceNow Lightstep",
+      "description": "South EMEA Tech Lead",
+      "biography": "<p>Dimitris Finas is Southern EMEA Tech responsible for Lightstep, which is the co-founder of OpenTelemetry with Google. With previous position as DevOps architect and agile project director, Dimitris is an early adopter, technical passionate and eager to deliver highest quality and business results through IT. As speaker at Cloud Expo Europe, CRIP Paris, and other tech events, he shared bottom-up knowledge from implementation to value.</p>",
+      "image": "assets/img/speakers/dimitris-finas.webp",
+      "ref": "34d565db320a6c8f22c1b6c05b18a1aa01ba0796",
+      "url": "infoSpeaker.html?ref=34d565db320a6c8f22c1b6c05b18a1aa01ba0796",
+      "homepage": "",
+      "twitter": "@dfinas101",
+      "linkedin": "https://www.linkedin.com/in/dimitris-finas/"
     },
     {
       "enabled": "1",
@@ -509,6 +665,19 @@
     },
     {
       "enabled": "1",
+      "name": "Carlos Saona Vázquez",
+      "company": "Edreams Odigeo",
+      "description": "Chief Architect",
+      "biography": "<p>Carlos is the Chief Architect at eDreams Odigeo, the largest online travel agency in Europe, where he has led architectural transformations such as the migration to microservices, the movement to cloud and Kubernetes, the adoption of chaos engineering and now the creation of a data mesh. Before eDreams, Carlos served in multiple leading technical roles in health care, computer security and video game companies designing distributed, scalable and fault-tolerant systems</p>",
+      "image": "assets/img/speakers/carlos-saona.jpg",
+      "ref": "995deafb6a160f93df5d5e8906e6be02205373d5",
+      "url": "infoSpeaker.html?ref=995deafb6a160f93df5d5e8906e6be02205373d5",
+      "homepage": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/carlos-saona-vazquez"
+    },
+    {
+      "enabled": "1",
       "name": "Guillem Plasencia Gallofré",
       "company": "Adaptive Financial Consulting",
       "description": "Senior software developer & Data scientist",
@@ -582,6 +751,19 @@
       "homepage": "https://evacchi.github.io",
       "twitter": "@evacchi",
       "linkedin": "https://www.linkedin.com/in/edoardovacchi/"
+    },
+    {
+      "enabled": "1",
+      "name": "Dennis Kieselhorst",
+      "company": "Amazon Web Services",
+      "description": "Senior Solutions Architect",
+      "biography": "<p>Dennis Kieselhorst is a Solutions Architect at Amazon Web Services. He has over 15 years of experience with software architectures, especially in large distributed heterogeneous environments. Dennis loves to contribute to Open Source projects and is a committer and PMC member at Apache Software Foundation. Moreover he is member of the organizing committees for the Java Forum Nord and the Java User Group (JUG) Bremen-Oldenburg. Prior to joing Amazon Dennis worked as a team leader, architect and consultant at a number of enterprise companies in different sectors.</p>",
+      "image": "assets/img/speakers/dennis-kieselhorst.jpg",
+      "ref": "8ea4327073ae8971f36f2c0d4d962822ad4e4031",
+      "url": "infoSpeaker.html?ref=8ea4327073ae8971f36f2c0d4d962822ad4e4031",
+      "homepage": "",
+      "twitter": "",
+      "linkedin": "https://www.linkedin.com/in/kieselhorst/"
     },
     {
       "enabled": "1",
@@ -715,6 +897,19 @@
     },
     {
       "enabled": "1",
+      "name": "Sven Peters",
+      "company": "Manfred",
+      "description": "Developer Advocate",
+      "biography": "<p>Sven Peters, former developer advocate at Atlassian and MongoDB - now at Manfred, has been studying trends in software development for the last 15 years uncovering the cultural and technical attributes to help development teams work effectively and drive innovation. He has 20 years experience in writing code, leading teams, and sharing his experience with thousands of developers at uncountable conferences in 25+ countries.</p>",
+      "image": "assets/img/speakers/sven-peters.jpeg",
+      "ref": "6e6c32699364da6fd090b2002c3e64da4cecacbb",
+      "url": "infoSpeaker.html?ref=6e6c32699364da6fd090b2002c3e64da4cecacbb",
+      "homepage": "",
+      "twitter": "@svenpet",
+      "linkedin": ""
+    },
+    {
+      "enabled": "1",
       "name": "Whitney Lee",
       "company": "VMware",
       "description": "Staff Developer Advocate",
@@ -738,6 +933,17 @@
       "homepage": "",
       "twitter": "@jreock",
       "linkedin": "https://www.linkedin.com/in/justinreock/"
+    },
+    {
+      "enabled": "1",
+      "name": "Julián Sanchez Mota",
+      "company": "GFT Group",
+      "description": "Data Scientist",
+      "biography": "<p>Data Scientist in GFT Group in the Artificial Intelligence Strategic Initiative team.</p><p>Graduated in Telecommunications Systems, Sound and Image Engineering with a Masters in Artificial Intelligence. Dedicated to developing solutions using Artificial Intelligence, specially in solutions based on Computer Vision and NLP.</p>",
+      "image": "assets/img/speakers/julian-mota.png",
+      "ref": "2a88aa1b1e9f6e4a6c13ddb06f9f72cb48b853c8",
+      "url": "infoSpeaker.html?ref=2a88aa1b1e9f6e4a6c13ddb06f9f72cb48b853c8",
+      "linkedin": "https://www.linkedin.com/in/juliansanchezmota/"
     },
     {
       "enabled": "1",
